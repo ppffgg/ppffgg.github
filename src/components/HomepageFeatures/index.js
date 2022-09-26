@@ -4,29 +4,29 @@ import styles from './styles.module.css';
 
 const FeatureList = [
   {
-    title: '第一幅画',
+    title: 'Acm算法比赛菜鸡',
     Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
     description: (
       <>
-        111111
+        博主正在学习算法中，争取在各大算法比赛中取得佳绩
       </>
     ),
   },
   {
-    title: '第二幅画',
+    title: '数字媒体技术课程知识',
     Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
     description: (
       <>
-        222222
+        不定期记笔记和分享课程知识
       </>
     ),
   },
   {
-    title: '第三幅画',
+    title: '一些程序员日常分享',
     Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
     description: (
       <>
-        333333
+        活到老学到老，分享作为程序员的日常生活
       </>
     ),
   },

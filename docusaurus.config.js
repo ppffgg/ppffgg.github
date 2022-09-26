@@ -67,7 +67,7 @@ const config = {
             type: 'doc',
             docId: 'intro',
             position: 'left',
-            label: '我的文档',//标签名
+            label: '我的文档(算法学习中)',//标签名
           },
           {to: '/blog', label: '我的博客', position: 'left'},
           {
